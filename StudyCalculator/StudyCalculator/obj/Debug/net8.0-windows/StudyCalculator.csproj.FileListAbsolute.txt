@@ -1,0 +1,16 @@
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\bin\Debug\net8.0-windows\StudyCalculator.exe
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\bin\Debug\net8.0-windows\StudyCalculator.deps.json
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\bin\Debug\net8.0-windows\StudyCalculator.runtimeconfig.json
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\bin\Debug\net8.0-windows\StudyCalculator.dll
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\bin\Debug\net8.0-windows\StudyCalculator.pdb
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.Calculator.resources
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.csproj.GenerateResource.cache
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.AssemblyInfoInputs.cache
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.AssemblyInfo.cs
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.dll
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\refint\StudyCalculator.dll
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.pdb
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\StudyCalculator.genruntimeconfig.cache
+C:\Users\maxyu\source\repos\StudyCalculator\StudyCalculator\obj\Debug\net8.0-windows\ref\StudyCalculator.dll
